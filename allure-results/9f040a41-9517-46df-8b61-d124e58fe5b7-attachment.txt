@@ -1,0 +1,1 @@
+[33mWARNING [0m root:object_fixture.py:19 Error in delete user_id180
